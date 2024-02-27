@@ -29,6 +29,5 @@ La diferencia entre "SimpleFlexScanner" (Example 3) y "CalculatorScanner" (Examp
 Flex, aunque eficiente en la tokenización y el análisis de texto basado en expresiones regulares, no es ideal para el procesamiento del lenguaje natural (NLP) debido a las complejidades propias de idiomas como el español. Se recomienda evitar la ambigüedad y mantener jerarquías claras al utilizar Flex.
 
 ### Punto 6
-Ver comparación en la imagen "ComparationRsults.png".
-
+![Comparacion de tiempo de ejecucion](https://github.com/AlgorithmicPaws/flex-bison/blob/main/ComparationResults.png)
 ---
